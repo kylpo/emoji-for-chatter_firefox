@@ -3,7 +3,7 @@ Emoji for Chatter
 
 ###See and input emoji in Chatter!
 
-[Emoji for Chatter](https://chrome.google.com/webstore/detail/emoji-for-chatter/dipcnkfbpgiehajjcohgldhjdnhpijhf?hl=en-US&utm_source=chrome-ntp-launcher) on the Chrome Web Store
+[Emoji for Chatter](https://addons.mozilla.org/en-US/firefox/addon/emoji-for-chatter/) in the Firefox Add-ons
 
 This extension will replace text emojis, like :smile:, with image emojis in Salesforce's Chatter! Also, when typing a post or comment, type : and search to see what emojis are available.
 
