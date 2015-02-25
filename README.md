@@ -12,7 +12,7 @@ For a list of all emojis, see: http://www.emoji-cheat-sheet.com/
 **Note: this is NOT an official Salesforce project. Salesforce is not responsible for this extension.**
 
 ###How to install
-1. Right-click on [this link](https://github.com/kylpo/emoji-for-chatter_firefox/blob/master/emoji-for-chatter.xpi) and choose to "Save Link As..."
+1. Right-click on [this link](https://github.com/kylpo/emoji-for-chatter_firefox/blob/master/emoji-for-chatter.xpi?raw=true) and choose to "Save Link As..."
 2. Open `about:addons` in Firefox
 3. Click the cog in the top right, and choose to "Install Addon from File..."
 
