@@ -10,3 +10,9 @@ This extension will replace text emojis, like :smile:, with image emojis in Sale
 For a list of all emojis, see: http://www.emoji-cheat-sheet.com/
 
 **Note: this is NOT an official Salesforce project. Salesforce is not responsible for this extension.**
+
+
+##Dev Notes
+~/Downloads/addon-sdk-1.17/bin/cfx run
+
+cfx xpi
