@@ -1,6 +1,6 @@
 Emoji for Chatter
 =======================
-![Emoji for Chatter](https://lh3.googleusercontent.com/pQYLUMJw0wgN09TKobAoo-VEOwLaJj2tyOrhteC9wiuugKR9pfoXvBxCHSKOhVL1VoMR8IYuS7s=w2560-h1616 "Emoji for Chatter")
+![Emoji for Chatter](emoji-for-chatter_autocomplete.png?raw=true "Emoji for Chatter")
 ###See and input emoji in Chatter!
 
 [Emoji for Chatter](https://addons.mozilla.org/en-US/firefox/addon/emoji-for-chatter/) in the Firefox Add-ons
